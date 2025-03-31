@@ -5,5 +5,7 @@
 *.userosscache
 *.suo
 *.userprefs
+echo -e
+
 
 
